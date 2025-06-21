@@ -1,0 +1,10 @@
+File: <FILENAME>
+SPDX-License-Identifier: Unlicense
+-*- mode: <LANG>
+
+This is free and unencumbered software released into the public domain.
+
+
+
+vim: set ft=<LANG> sw=2 sts=2 ts=2 ai ar si sta
+
